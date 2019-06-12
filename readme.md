@@ -11,4 +11,5 @@ The notebook where I calcualted the shear modified by metacalibration.
 The notebook where I get the difference histograms between catalogs w/ and wo/ MOF. 
 
 ## TODO
-Rewrite balrog\_diff with pandas and ipython.
+1. Rewrite balrog\_diff with pandas and ipython.
+2. Visualize with healpix
