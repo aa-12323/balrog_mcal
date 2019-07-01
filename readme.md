@@ -13,5 +13,7 @@ get the difference histograms between catalogs w/ and wo/ MOF.
 ### healpix.ipynb
 healpix plots
 
+### treecorr.ipynb
+two point correlation functions (kg, gg)
+
 ## TODO
-compare healpix plots
